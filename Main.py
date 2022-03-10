@@ -5,7 +5,7 @@ from time import sleep
 TIME = 0.5
 
 def WarnUser():
-    os.system('shutdown -r -c "Alerta de Vírus!" -t 120')
+    os.system('shutdown -r -c "Virus Alert!!!" -t 120')
 
 def OpenApps():
     sleep(TIME)
