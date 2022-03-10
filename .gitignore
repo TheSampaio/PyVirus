@@ -1,7 +1,8 @@
 # Diretories
-__pycahe__/*
-build/*
-dist/*
+__pycahe__/
+.vscode/
+build/
+dist/
 
 # Files
 *.spec
