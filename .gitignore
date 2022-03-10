@@ -1,0 +1,7 @@
+# Diretories
+__pycahe__/*
+build/*
+dist/*
+
+# Files
+*.spec
